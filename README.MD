@@ -14,7 +14,7 @@ pip install waitress
 ```bash
 python3 main.py data.csv
 ```
-Для получения результата нужно перейти по адресу 
+После этого, для получения результата нужно перейти по адресу 
 ```bash
 http://localhost:8080/flights/1
 ```
